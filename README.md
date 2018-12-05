@@ -2,9 +2,9 @@
 
 コマンド プロンプトで遊べる 15 パズル。
 
-![](https://github.com/TanaUmbreon/FifteenPuzzle/images/SS1.png)
-![](https://github.com/TanaUmbreon/FifteenPuzzle/images/SS2.png)
-![](https://github.com/TanaUmbreon/FifteenPuzzle/images/SS3.png)
+![](https://raw.githubusercontent.com/TanaUmbreon/FifteenPuzzle/images/SS1.png)
+![](https://raw.githubusercontent.com/TanaUmbreon/FifteenPuzzle/images/SS2.png)
+![](https://raw.githubusercontent.com/TanaUmbreon/FifteenPuzzle/images/SS3.png)
 
 ## ダウンロードと遊び方
 
