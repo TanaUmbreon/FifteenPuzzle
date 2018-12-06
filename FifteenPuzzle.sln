@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Cui", "FifteenPuzzle.Cui\FifteenPuzzle.Cui.csproj", "{01916A62-ECE8-48DD-97B9-FFDB90121491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Cui.Test", "FifteenPuzzle.Cui.Test\FifteenPuzzle.Cui.Test.csproj", "{B7238817-378F-469C-9B7B-45B8259645BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{01916A62-ECE8-48DD-97B9-FFDB90121491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01916A62-ECE8-48DD-97B9-FFDB90121491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01916A62-ECE8-48DD-97B9-FFDB90121491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7238817-378F-469C-9B7B-45B8259645BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7238817-378F-469C-9B7B-45B8259645BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7238817-378F-469C-9B7B-45B8259645BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7238817-378F-469C-9B7B-45B8259645BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
