@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28315.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Cui", "FifteenPuzzle.Cui\FifteenPuzzle.Cui.csproj", "{01916A62-ECE8-48DD-97B9-FFDB90121491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Cui.Test", "FifteenPuzzle.Cui.Test\FifteenPuzzle.Cui.Test.csproj", "{B7238817-378F-469C-9B7B-45B8259645BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Core.Test", "FifteenPuzzle.Cui.Test\FifteenPuzzle.Core.Test.csproj", "{B7238817-378F-469C-9B7B-45B8259645BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifteenPuzzle.Core", "FifteenPuzzle.Core\FifteenPuzzle.Core.csproj", "{CEC4E910-282A-4C79-8A89-D8CF424BDE6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B7238817-378F-469C-9B7B-45B8259645BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7238817-378F-469C-9B7B-45B8259645BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7238817-378F-469C-9B7B-45B8259645BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC4E910-282A-4C79-8A89-D8CF424BDE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC4E910-282A-4C79-8A89-D8CF424BDE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC4E910-282A-4C79-8A89-D8CF424BDE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC4E910-282A-4C79-8A89-D8CF424BDE6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

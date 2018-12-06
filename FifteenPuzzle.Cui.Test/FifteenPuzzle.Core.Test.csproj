@@ -55,9 +55,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FifteenPuzzle.Cui\FifteenPuzzle.Cui.csproj">
-      <Project>{01916a62-ece8-48dd-97b9-ffdb90121491}</Project>
-      <Name>FifteenPuzzle.Cui</Name>
+    <ProjectReference Include="..\FifteenPuzzle.Core\FifteenPuzzle.Core.csproj">
+      <Project>{cec4e910-282a-4c79-8a89-d8cf424bde6a}</Project>
+      <Name>FifteenPuzzle.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

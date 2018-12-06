@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FifteenPuzzle.Cui.Puzzle
+namespace FifteenPuzzle.Core
 {
     /// <summary>
     /// 15 パズルのパネルです。

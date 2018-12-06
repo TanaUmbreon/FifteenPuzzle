@@ -1,7 +1,7 @@
 ﻿using System;
+using FifteenPuzzle.Core;
 using FifteenPuzzle.Cui.Core;
 using FifteenPuzzle.Cui.Core.Messages;
-using FifteenPuzzle.Cui.Puzzle;
 
 namespace FifteenPuzzle.Cui.Scenes
 {
@@ -13,7 +13,7 @@ namespace FifteenPuzzle.Cui.Scenes
         /// <summary>入力デバイス</summary>
         private VirtualInput input;
         /// <summary>15 パズル本体</summary>
-        private FifteenPuzzleBody puzzle;
+        private PuzzleBody puzzle;
 
         /// <summary>
         /// <see cref="PuzzleSceneSet"/> の新しいインスタンスを生成します。
@@ -21,7 +21,7 @@ namespace FifteenPuzzle.Cui.Scenes
         public PuzzleSceneSet()
         {
             input = new VirtualInput();
-            puzzle = new FifteenPuzzleBody();
+            puzzle = new PuzzleBody();
 
             NextScene = Startup;
         }
